@@ -1,0 +1,27 @@
+{
+"name": "hyperbolaa/ueditor",
+"type": "symfony-bundle",
+"description": "ueditor for symfony2",
+"keywords": ["ueditor", "symfony2"],
+"homepage": "https://github.com/hyperbolaa/ueditor",
+"license": "MIT",
+"authors": [
+{
+"name": "chong yu",
+"email": "chongyu366@gmail.com"
+}
+],
+"require": {
+    "php": ">=5.5.0"
+    },
+    "autoload": {
+    "psr-4": {
+        "Hyperbolaa\\Ueditor\\": ""
+        }
+    },
+    "extra": {
+    "branch-alias": {
+        "dev-master": "1.0.x-dev"
+        }
+    }
+}
