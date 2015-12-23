@@ -1,5 +1,5 @@
 {
-"name": "hyperbolaa/ueditor",
+"name": "hyperbolaa/ueditor-bundle",
 "type": "symfony-bundle",
 "description": "ueditor for symfony2",
 "keywords": ["ueditor", "symfony2"],
