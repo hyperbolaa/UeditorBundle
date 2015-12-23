@@ -14,7 +14,6 @@
 "require": {
     "php": ">=5.5.0"
     },
-    "target-dir" : "Hyperbolaa/UeditorBundle",
     "autoload": {
     "psr-4": {
         "Hyperbolaa\\Ueditor\\": ""
