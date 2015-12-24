@@ -3,7 +3,7 @@
 "type": "symfony-bundle",
 "description": "ueditor for symfony2",
 "keywords": ["ueditor", "symfony2"],
-"homepage": "https://github.com/hyperbolaa/ueditor",
+"homepage": "https://github.com/hyperbolaa/UeditorBundle",
 "license": "MIT",
 "authors": [
 {
