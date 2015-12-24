@@ -2,10 +2,10 @@
 /**
  * bundle 内部载入 service 配置
  */
-namespace Hyperbolaa\Ueditor;
+namespace Hyperbolaa\UeditorBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
-use Hyperbolaa\Ueditor\DependencyInjection\HyperbolaaUeditorExtension;
+use Hyperbolaa\UeditorBundle\DependencyInjection\HyperbolaaUeditorExtension;
 
 /**
  * Class HyperbolaaUeditorBundle

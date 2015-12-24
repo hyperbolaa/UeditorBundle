@@ -1,11 +1,11 @@
 services:
     hyperbolaa_ueditor:
-        class: Hyperbolaa\Ueditor\Service\UeditorService
+        class: Hyperbolaa\UeditorBundle\Service\UeditorService
         calls:
             - [ setContainer, [ @service_container ] ]
 
     hyperbolaa_ueditor.twig.hyperbolaa_ueditor_extension:
-        class: Hyperbolaa\Ueditor\Twig\HyperbolaaUeditorExtension
+        class: Hyperbolaa\UeditorBundle\Twig\HyperbolaaUeditorExtension
         tags:
             - { name: twig.extension }
         calls:

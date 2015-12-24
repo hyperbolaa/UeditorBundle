@@ -2,7 +2,7 @@
 /**
  * 载入 service  的配置
  */
-namespace Hyperbolaa\Ueditor\DependencyInjection;
+namespace Hyperbolaa\UeditorBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

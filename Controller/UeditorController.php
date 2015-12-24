@@ -1,6 +1,6 @@
 <?php
 
-namespace Hyperbolaa\Ueditor\Controller;
+namespace Hyperbolaa\UeditorBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\DependencyInjection\ContainerInterface;

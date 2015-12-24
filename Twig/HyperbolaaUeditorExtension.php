@@ -2,7 +2,7 @@
 /**
  * 注册twig模板的 函数 和  过滤器
  */
-namespace Hyperbolaa\Ueditor\Twig;
+namespace Hyperbolaa\UeditorBundle\Twig;
 
 use Symfony\Component\DependencyInjection\ContainerAwareInterface;
 use Symfony\Component\DependencyInjection\ContainerInterface;

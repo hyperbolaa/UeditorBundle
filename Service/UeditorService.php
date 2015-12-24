@@ -3,7 +3,7 @@
  * 第三方bundle的服务
  * 此处写业务逻辑
  */
-namespace Hyperbolaa\Ueditor\Service;
+namespace Hyperbolaa\UeditorBundle\Service;
 
 use Symfony\Component\DependencyInjection\ContainerAwareInterface;
 use Symfony\Component\DependencyInjection\ContainerInterface;

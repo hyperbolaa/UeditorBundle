@@ -16,7 +16,7 @@
     },
     "autoload": {
     "psr-0": {
-        "Hyperbolaa\\Ueditor\\": ""
+        "Hyperbolaa\\UeditorBundle\\": ""
         }
     },
     "target-dir": "Hyperbolaa/UeditorBundle",
